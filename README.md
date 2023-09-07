@@ -12,7 +12,7 @@
 
 - 📰 You can find my publications here <a href="https://www.researchgate.net/profile/Querriel-Arvy-Mendoza" target="_blank">ResearchGate</a> 
 
-- 💪🏽 All of my projects are available at <a href="https://www.researchgate.net/profile/Querriel-Arvy-Mendoza" target="_blank">GitHub</a> 
+- 💪🏽 All of my projects are available at <a href="https://github.com/qasmendoza?tab=repositories" target="_blank">GitHub</a> 
 
 - 📩 How to reach me at **qasmendoza@gmail.com**
 
