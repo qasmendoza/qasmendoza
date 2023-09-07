@@ -14,7 +14,7 @@
 
 - 💪🏽 All of my projects are available at <a href="https://github.com/qasmendoza?tab=repositories" target="_blank">GitHub</a> 
 
-- 📩 How to reach me at **qasmendoza@gmail.com**
+- 📩 You can reach me at **qasmendoza@gmail.com**
 
 
 
