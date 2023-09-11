@@ -6,7 +6,7 @@
 
 - 📄 Here's a copy of my <a href="https://drive.google.com/file/d/1PSPi2mWLj0YkMhf8zX4KuKOMBd5KwWa4/view?usp=sharing" target="_blank">Resumé</a>
   
-- 👨🏾‍💻 I’m currently learning **Data Science, Analytics, Applied Statistics, Machine Learning and AI**
+- 👨🏾‍💻 I’m currently learning **Data Science, Analytics, Applied Statistics, Machine Learning and AI** and here's my lab: <a href="https://people.cs.ksu.edu/~neilsen/group.html" target="_blank">CPS Lab</a>
 
 - 💬 Ask me about **Data Science, Machine Learning, Analytics, Artificial Intelligence**
 
