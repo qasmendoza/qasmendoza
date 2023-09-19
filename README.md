@@ -8,7 +8,7 @@
   
 - 👨🏾‍💻 I’m currently learning **Data Science, Analytics, Applied Statistics, Machine Learning and AI** and here's my lab: <a href="https://people.cs.ksu.edu/~neilsen/group.html" target="_blank">CPS Lab</a>
 
-- 💬 Ask me about **Data Science, Machine Learning, Analytics, Artificial Intelligence**
+- 💬 Ask me about **Data Science, Machine Learning, Analytics, and <br>Artificial Intelligence**
 
 - 📰 You can find my publications here <a href="https://www.researchgate.net/profile/Querriel-Arvy-Mendoza" target="_blank">ResearchGate</a> 
 
