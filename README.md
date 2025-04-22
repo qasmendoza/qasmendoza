@@ -10,7 +10,7 @@
   
 - 🔬 The CS lab I'm currently belong: <a href="https://people.cs.ksu.edu/~neilsen/group.html" target="_blank">CPS Lab</a>
 
-- 📰 You can find my publications here <a href="https://www.researchgate.net/profile/Querriel-Arvy-Mendoza" target="_blank">ResearchGate</a> 
+- 📰 You can find my publications here <a href="https://scholar.google.com/citations?user=4UfmKB4AAAAJ&hl=en">Google Scholar</a> 
 
 - 💪🏽 All of my projects are available at <a href="https://github.com/qasmendoza?tab=repositories" target="_blank">GitHub</a> 
 
