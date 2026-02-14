@@ -2,7 +2,6 @@
 <h3 align="center">Welcome to my Github profile!</h3>
 
 
-<img align="right" alt="DS" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📄 Here's a copy of my <a href="https://drive.google.com/file/d/1FHCiicFLe1bPexqE9AkUx4sZuXa4Y889/view?usp=share_link" target="_blank">Resumé</a>
   
