@@ -3,7 +3,7 @@
 
 
 
-- 📄 Here's a copy of my <a href="https://drive.google.com/file/d/1FHCiicFLe1bPexqE9AkUx4sZuXa4Y889/view?usp=share_link" target="_blank">Resumé</a>
+- 📄 Here's a copy of my <a href="files/Querriel_Mendoza_Resume.pdf" target="_blank">Resumé</a>
   
 - 👨🏾‍💻 I’m currently learning **Embedded Systems, IoT, Data Science, Analytics, Applied Statistics, Machine Learning, and AI.**
   
