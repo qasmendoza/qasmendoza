@@ -5,7 +5,7 @@
 
 - 📄 Here's a copy of my <a href="files/Querriel_Mendoza_Resume.pdf" target="_blank">Resumé</a>
   
-- 👨🏾‍💻 I’m currently learning **Embedded Systems, IoT, Data Science, Analytics, Applied Statistics, Machine Learning, and AI.**
+- 👨🏾‍💻 I’m currently learning **Embedded Systems, Robotics, IoT, Data Science, Analytics, Applied Statistics, Machine Learning, and AI.**
   
 - 🔬 The CS lab I'm currently belong: <a href="https://people.cs.ksu.edu/~neilsen/group.html" target="_blank">CPS Lab</a>
 
